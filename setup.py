@@ -18,7 +18,7 @@ install_requires = ['fastcluster<1.1.25',
                     'highered>=0.2.0',
                     'simplecosine>=1.2',
                     'haversine>=0.4.1',
-                    'BTrees>=4.1.4',
+                    'BTrees>=4.1.4,<4.5.1',
                     'simplejson',
                     'zope.index',
                     'Levenshtein_search']
